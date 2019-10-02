@@ -7,6 +7,10 @@ package per.cyj.demo;
  */
 public class SayHello {
 
+    /**
+     * main主函数
+     * @param args String[]参数
+     */
     public static void main(String[] args) {
 	System.out.println("Say Hello!!!");
     }
