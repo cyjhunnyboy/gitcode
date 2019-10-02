@@ -8,6 +8,7 @@ package per.cyj.demo;
 public class SayHello {
 
     public static void main(String[] args) {
+	// 向控制台输出"Say Hello!!!"
 	System.out.println("Say Hello!!!");
     }
 }
